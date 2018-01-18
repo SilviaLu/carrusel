@@ -8,6 +8,7 @@ body{
 }
 img{
 	width: 100%;
+	/* color: rgb(147, 214, 22); */
 }
 .list-images{
 	position: relative;
@@ -25,7 +26,6 @@ img{
 	margin: 5em;
 }
 .img-slider{
- width: 1200px;
- height: 650px;
-
+ width: 950px;
+ height: 600px;
 }
