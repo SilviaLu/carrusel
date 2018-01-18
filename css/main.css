@@ -1,0 +1,31 @@
+body{
+	margin: 0 auto;
+	text-align: center;
+}
+.list-images, .navegation{
+	list-style: none;
+	padding: 0;
+}
+img{
+	width: 100%;
+}
+.list-images{
+	position: relative;
+}
+.navegation li{
+	display: inline;
+	cursor: pointer;
+}
+.navegation li .fa{
+	width: 2em;
+	font-size: 1.5em;
+	color: #A4A4A4;
+}
+.navegation li:first-child, .navegation li:last-child{
+	margin: 5em;
+}
+.img-slider{
+ width: 1200px;
+ height: 650px;
+
+}
